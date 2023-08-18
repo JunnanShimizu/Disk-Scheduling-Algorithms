@@ -1,0 +1,5 @@
+Disk Scheduling Alg,# of Cycles,Color
+1,757,FCFS
+2,243,Scan
+3,388,C-Scan
+4,472,C-Look
